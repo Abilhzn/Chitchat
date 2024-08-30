@@ -1,0 +1,16 @@
+{
+  "editor.fontFamily": "Consolas, 'Courier New', monospace",
+  "window.zoomLevel": 0,
+  "editor.fontSize": 14,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "workbench.colorTheme": "codeSTACKr Theme",
+  "workbench.iconTheme": "vscode-icons",
+  "C_Cpp.errorSquiggles": "disabled",
+  "files.associations": {
+    "ostream": "cpp",
+    "iostream": "cpp"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
